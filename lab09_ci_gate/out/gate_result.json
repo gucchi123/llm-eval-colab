@@ -1,24 +1,162 @@
 [
  {
-  "name": "指定の組",
-  "baseline": "lab03_classify_extract\\out_mock\\runs_classify_v2_opus-5-5.jsonl",
-  "candidate": "lab09_ci_gate\\out_mock\\runs_candidate_v2_opus-5-5.jsonl",
+  "name": "短くした依頼文（Sonnet・v2 難問）",
+  "baseline": "lab03_classify_extract/out/runs_classify_v2_sonnet-5-5.jsonl",
+  "candidate": "lab09_ci_gate/out/runs_candidate_v2_sonnet-5-5.jsonl",
   "n": 48,
-  "base_acc": 0.5625,
-  "cand_acc": 0.7708333333333334,
-  "diff": 0.20833333333333334,
-  "lower": 0.041666666666666664,
-  "mcnemar_p": 0.07551869750022888,
+  "base_acc": 1.0,
+  "cand_acc": 0.7083333333333334,
+  "diff": -0.2916666666666667,
+  "lower": -0.3958333333333333,
+  "mcnemar_p": 0.0001220703125,
+  "checks": [
+   {
+    "name": "非劣性（差の下限 > −0.03）",
+    "ok": false,
+    "detail": "差 -0.292、片側95%下限 -0.396、基準だけ正解 14 / 候補だけ正解 0、McNemar p=0.000122"
+   },
+   {
+    "name": "層の床（どの種類も 25 ポイント超は落ちない）",
+    "ok": false,
+    "detail": "buried_money 100%→38% (n=8); hedged_spec 100%→50% (n=8)"
+   },
+   {
+    "name": "無効な出力 0 件",
+    "ok": true,
+    "detail": "0 件"
+   }
+  ],
+  "pass": false,
+  "cost_base": 0.178484,
+  "cost_cand": 0.147228,
+  "slices": [
+   [
+    "buried_money",
+    8,
+    1.0,
+    0.375
+   ],
+   [
+    "hedged_spec",
+    8,
+    1.0,
+    0.5
+   ],
+   [
+    "lookalike",
+    8,
+    1.0,
+    0.875
+   ],
+   [
+    "month_cross",
+    8,
+    1.0,
+    0.75
+   ],
+   [
+    "phone_terse",
+    8,
+    1.0,
+    0.75
+   ],
+   [
+    "wish_vs_rule",
+    8,
+    1.0,
+    1.0
+   ]
+  ]
+ },
+ {
+  "name": "短くした依頼文（Opus・v2 難問）",
+  "baseline": "lab03_classify_extract/out/runs_classify_v2_opus-5-5.jsonl",
+  "candidate": "lab09_ci_gate/out/runs_candidate_v2_opus-5-5.jsonl",
+  "n": 48,
+  "base_acc": 1.0,
+  "cand_acc": 0.8125,
+  "diff": -0.1875,
+  "lower": -0.2916666666666667,
+  "mcnemar_p": 0.00390625,
+  "checks": [
+   {
+    "name": "非劣性（差の下限 > −0.03）",
+    "ok": false,
+    "detail": "差 -0.188、片側95%下限 -0.292、基準だけ正解 9 / 候補だけ正解 0、McNemar p=0.00391"
+   },
+   {
+    "name": "層の床（どの種類も 25 ポイント超は落ちない）",
+    "ok": false,
+    "detail": "hedged_spec 100%→50% (n=8)"
+   },
+   {
+    "name": "無効な出力 0 件",
+    "ok": true,
+    "detail": "0 件"
+   }
+  ],
+  "pass": false,
+  "cost_base": 0.398648,
+  "cost_cand": 0.301336,
+  "slices": [
+   [
+    "buried_money",
+    8,
+    1.0,
+    0.75
+   ],
+   [
+    "hedged_spec",
+    8,
+    1.0,
+    0.5
+   ],
+   [
+    "lookalike",
+    8,
+    1.0,
+    0.875
+   ],
+   [
+    "month_cross",
+    8,
+    1.0,
+    0.875
+   ],
+   [
+    "phone_terse",
+    8,
+    1.0,
+    0.875
+   ],
+   [
+    "wish_vs_rule",
+    8,
+    1.0,
+    1.0
+   ]
+  ]
+ },
+ {
+  "name": "Opus → Sonnet に替える（v1 120 件）",
+  "baseline": "lab03_classify_extract/out/runs_classify_opus-5-5.jsonl",
+  "candidate": "lab03_classify_extract/out/runs_classify_sonnet-5-5.jsonl",
+  "n": 120,
+  "base_acc": 1.0,
+  "cand_acc": 1.0,
+  "diff": 0.0,
+  "lower": -0.02204907274712951,
+  "mcnemar_p": 1.0,
   "checks": [
    {
     "name": "非劣性（差の下限 > −0.03）",
     "ok": true,
-    "detail": "差 +0.208、片側95%下限 +0.042、基準だけ正解 8 / 候補だけ正解 18、McNemar p=0.0755"
+    "detail": "差 +0.000、片側95%下限 -0.022、基準だけ正解 0 / 候補だけ正解 0、McNemar p=1"
    },
    {
     "name": "層の床（どの種類も 25 ポイント超は落ちない）",
     "ok": true,
-    "detail": "buried_money 62%→62% (n=8); hedged_spec 50%→62% (n=8); lookalike 62%→75% (n=8)"
+    "detail": "account 100%→100% (n=10); change_mind 100%→100% (n=10); defect_boundary 100%→100% (n=6)"
    },
    {
     "name": "無効な出力 0 件",
@@ -27,44 +165,92 @@
    }
   ],
   "pass": true,
-  "cost_base": 0.0,
-  "cost_cand": 0.0,
+  "cost_base": 0.82596,
+  "cost_cand": 0.36608,
   "slices": [
    [
-    "buried_money",
-    8,
-    0.625,
-    0.625
-   ],
-   [
-    "hedged_spec",
-    8,
-    0.5,
-    0.625
-   ],
-   [
-    "lookalike",
-    8,
-    0.625,
-    0.75
-   ],
-   [
-    "month_cross",
-    8,
-    0.375,
+    "account",
+    10,
+    1.0,
     1.0
    ],
    [
-    "phone_terse",
-    8,
-    0.5,
-    0.75
+    "change_mind",
+    10,
+    1.0,
+    1.0
    ],
    [
-    "wish_vs_rule",
+    "defect_boundary",
+    6,
+    1.0,
+    1.0
+   ],
+   [
+    "defect_early",
+    13,
+    1.0,
+    1.0
+   ],
+   [
+    "defect_late",
+    10,
+    1.0,
+    1.0
+   ],
+   [
+    "delivery_change",
+    5,
+    1.0,
+    1.0
+   ],
+   [
+    "double_charge",
+    7,
+    1.0,
+    1.0
+   ],
+   [
+    "howto",
+    10,
+    1.0,
+    1.0
+   ],
+   [
+    "multi_defect_howto",
+    6,
+    1.0,
+    1.0
+   ],
+   [
+    "multi_howto_account",
     8,
-    0.75,
-    0.875
+    1.0,
+    1.0
+   ],
+   [
+    "multi_late_fee",
+    5,
+    1.0,
+    1.0
+   ],
+   [
+    "normal_behavior",
+    12,
+    1.0,
+    1.0
+   ],
+   [
+    "not_arrived",
+    5,
+    1.0,
+    1.0
+   ],
+   [
+    "shipping_fee",
+    8,
+    1.0,
+    1.0
    ]
   ]
  }
