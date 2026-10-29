@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"会員・解約\", \"rule\": \"R6\", \"confidence\": 98}", "model": "claude-opus-5-5", "in": 979, "out": 29, "seconds": 1.69, "cost_usd": 0.004496, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"会員・解約\", \"rule\": \"R6\", \"confidence\": 98}"}], "t": "2026-10-18T11:00:19"}

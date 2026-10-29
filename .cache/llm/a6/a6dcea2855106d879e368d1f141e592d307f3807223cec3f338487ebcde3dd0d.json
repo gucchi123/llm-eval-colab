@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"返品・交換\", \"rule\": \"R3\", \"confidence\": 95}", "model": "claude-opus-5-5", "in": 1014, "out": 60, "seconds": 2.05, "cost_usd": 0.005256, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"返品・交換\", \"rule\": \"R3\", \"confidence\": 95}"}], "t": "2026-10-18T11:00:25"}

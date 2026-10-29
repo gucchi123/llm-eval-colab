@@ -1,0 +1,1 @@
+{"text": "", "model": "claude-sonnet-5-5", "in": 1781, "out": 98, "seconds": 1.27, "cost_usd": 0.004542, "stop": "tool_use", "content": [{"type": "tool_use", "id": "toolu_0157Bqew8svK56AC9DLwJLcu", "name": "create_order", "input": {"code": "K-104", "qty": 52, "supplier": "北浜物流"}}], "t": "2026-10-18T11:07:22"}

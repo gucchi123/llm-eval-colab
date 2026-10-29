@@ -1,0 +1,1 @@
+{"text": "```json\n{\"label\": \"修理・故障\", \"rule\": \"-\", \"confidence\": 80}\n```", "model": "claude-opus-5-5", "in": 311, "out": 466, "seconds": 5.75, "cost_usd": 0.010564, "stop": "end_turn", "content": [{"type": "text", "text": "```json\n{\"label\": \"修理・故障\", \"rule\": \"-\", \"confidence\": 80}\n```"}], "t": "2026-10-18T11:39:30"}

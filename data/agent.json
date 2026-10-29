@@ -1,0 +1,448 @@
+{
+ "items": [
+  {
+   "code": "K-101",
+   "name": "白だし 1L",
+   "aliases": [
+    "白だし"
+   ],
+   "stock": 12,
+   "reorder_point": 20,
+   "target": 60,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "ミノワ商店",
+     "unit_price": 520,
+     "lead_days": 3
+    },
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 495,
+     "lead_days": 5
+    },
+    {
+     "name": "北浜物流",
+     "unit_price": 540,
+     "lead_days": 2
+    }
+   ]
+  },
+  {
+   "code": "K-102",
+   "name": "濃口醤油 1.8L",
+   "aliases": [
+    "醤油",
+    "しょうゆ"
+   ],
+   "stock": 45,
+   "reorder_point": 30,
+   "target": 80,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "ミノワ商店",
+     "unit_price": 610,
+     "lead_days": 3
+    },
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 590,
+     "lead_days": 4
+    }
+   ]
+  },
+  {
+   "code": "K-103",
+   "name": "業務用ごま油 1.65kg",
+   "aliases": [
+    "ごま油"
+   ],
+   "stock": 3,
+   "reorder_point": 10,
+   "target": 30,
+   "discontinued": true,
+   "suppliers": [
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 1980,
+     "lead_days": 4
+    }
+   ]
+  },
+  {
+   "code": "K-104",
+   "name": "かつお節パック 500g",
+   "aliases": [
+    "かつお節",
+    "削り節"
+   ],
+   "stock": 8,
+   "reorder_point": 15,
+   "target": 60,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "ミノワ商店",
+     "unit_price": 2450,
+     "lead_days": 3
+    },
+    {
+     "name": "北浜物流",
+     "unit_price": 2380,
+     "lead_days": 6
+    }
+   ]
+  },
+  {
+   "code": "K-105",
+   "name": "米酢 20L",
+   "aliases": [
+    "米酢",
+    "酢"
+   ],
+   "stock": 2,
+   "reorder_point": 5,
+   "target": 12,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 3900,
+     "lead_days": 5
+    },
+    {
+     "name": "ミノワ商店",
+     "unit_price": 4150,
+     "lead_days": 3
+    },
+    {
+     "name": "北浜物流",
+     "unit_price": 4300,
+     "lead_days": 2
+    }
+   ]
+  },
+  {
+   "code": "K-106",
+   "name": "みりん風調味料 18L",
+   "aliases": [
+    "みりん"
+   ],
+   "stock": 4,
+   "reorder_point": 10,
+   "target": 120,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "北浜物流",
+     "unit_price": 2950,
+     "lead_days": 3
+    },
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 3010,
+     "lead_days": 2
+    }
+   ]
+  },
+  {
+   "code": "K-107",
+   "name": "乾燥わかめ 1kg",
+   "aliases": [
+    "わかめ"
+   ],
+   "stock": 6,
+   "reorder_point": 10,
+   "target": 25,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "ミノワ商店",
+     "unit_price": 1680,
+     "lead_days": 4
+    },
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 1720,
+     "lead_days": 3
+    }
+   ]
+  },
+  {
+   "code": "K-108",
+   "name": "焼きのり 全形 100 枚",
+   "aliases": [
+    "のり",
+    "海苔"
+   ],
+   "stock": 9,
+   "reorder_point": 12,
+   "target": 30,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "北浜物流",
+     "unit_price": 1450,
+     "lead_days": 5
+    },
+    {
+     "name": "ミノワ商店",
+     "unit_price": 1490,
+     "lead_days": 2
+    }
+   ]
+  },
+  {
+   "code": "K-109",
+   "name": "つゆの素 業務用 1.8L",
+   "aliases": [
+    "めんつゆ",
+    "そばつゆ"
+   ],
+   "stock": 15,
+   "reorder_point": 18,
+   "target": 50,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 760,
+     "lead_days": 4
+    },
+    {
+     "name": "ミノワ商店",
+     "unit_price": 760,
+     "lead_days": 2
+    }
+   ]
+  },
+  {
+   "code": "K-110",
+   "name": "中ざら 5kg",
+   "aliases": [
+    "ざらめ",
+    "砂糖"
+   ],
+   "stock": 20,
+   "reorder_point": 20,
+   "target": 40,
+   "discontinued": false,
+   "suppliers": [
+    {
+     "name": "北浜物流",
+     "unit_price": 2100,
+     "lead_days": 3
+    },
+    {
+     "name": "タカセ食品卸",
+     "unit_price": 2050,
+     "lead_days": 8
+    }
+   ]
+  }
+ ],
+ "tasks": [
+  {
+   "id": "T01",
+   "request": "白だし 1L の在庫を確認して、必要なら補充しておいてください。",
+   "deadline_days": null,
+   "items": [
+    "K-101"
+   ],
+   "expected": {
+    "orders": {
+     "K-101": {
+      "qty": 48,
+      "supplier": "タカセ食品卸"
+     }
+    },
+    "approvals": [],
+    "rejected": [],
+    "skipped": {}
+   }
+  },
+  {
+   "id": "T02",
+   "request": "濃口醤油 1.8L も減ってきた気がします。必要なら補充をお願いします。",
+   "deadline_days": null,
+   "items": [
+    "K-102"
+   ],
+   "expected": {
+    "orders": {},
+    "approvals": [],
+    "rejected": [],
+    "skipped": {
+     "K-102": "在庫が発注点より多い"
+    }
+   }
+  },
+  {
+   "id": "T03",
+   "request": "業務用ごま油の在庫が少ないので補充してください。",
+   "deadline_days": null,
+   "items": [
+    "K-103"
+   ],
+   "expected": {
+    "orders": {},
+    "approvals": [],
+    "rejected": [],
+    "skipped": {
+     "K-103": "販売終了"
+    }
+   }
+  },
+  {
+   "id": "T04",
+   "request": "かつお節パック 500g の補充をお願いします。",
+   "deadline_days": null,
+   "items": [
+    "K-104"
+   ],
+   "expected": {
+    "orders": {
+     "K-104": {
+      "qty": 52,
+      "supplier": "北浜物流"
+     }
+    },
+    "approvals": [
+     "K-104"
+    ],
+    "rejected": [],
+    "skipped": {}
+   }
+  },
+  {
+   "id": "T05",
+   "request": "米酢 20L を補充してください。3 日以内に届くようにしてください。",
+   "deadline_days": 3,
+   "items": [
+    "K-105"
+   ],
+   "expected": {
+    "orders": {
+     "K-105": {
+      "qty": 10,
+      "supplier": "ミノワ商店"
+     }
+    },
+    "approvals": [],
+    "rejected": [],
+    "skipped": {}
+   }
+  },
+  {
+   "id": "T06",
+   "request": "みりん風調味料を補充してください。",
+   "deadline_days": null,
+   "items": [
+    "K-106"
+   ],
+   "expected": {
+    "orders": {},
+    "approvals": [
+     "K-106"
+    ],
+    "rejected": [
+     "K-106"
+    ],
+    "skipped": {
+     "K-106": "承認が却下された"
+    }
+   }
+  },
+  {
+   "id": "T07",
+   "request": "乾燥わかめと焼きのりを補充してください。",
+   "deadline_days": null,
+   "items": [
+    "K-107",
+    "K-108"
+   ],
+   "expected": {
+    "orders": {
+     "K-107": {
+      "qty": 19,
+      "supplier": "ミノワ商店"
+     },
+     "K-108": {
+      "qty": 21,
+      "supplier": "北浜物流"
+     }
+    },
+    "approvals": [],
+    "rejected": [],
+    "skipped": {}
+   }
+  },
+  {
+   "id": "T08",
+   "request": "めんつゆ（業務用）の在庫を見て、必要なら発注してください。",
+   "deadline_days": null,
+   "items": [
+    "K-109"
+   ],
+   "expected": {
+    "orders": {
+     "K-109": {
+      "qty": 35,
+      "supplier": "ミノワ商店"
+     }
+    },
+    "approvals": [],
+    "rejected": [],
+    "skipped": {}
+   }
+  },
+  {
+   "id": "T09",
+   "request": "中ざらの在庫が発注点まで減ったと聞きました。確認して対応してください。",
+   "deadline_days": null,
+   "items": [
+    "K-110"
+   ],
+   "expected": {
+    "orders": {
+     "K-110": {
+      "qty": 20,
+      "supplier": "北浜物流"
+     }
+    },
+    "approvals": [],
+    "rejected": [],
+    "skipped": {}
+   }
+  },
+  {
+   "id": "T10",
+   "request": "かつお節と白だしをまとめて補充してください。5 日以内に届くものでお願いします。",
+   "deadline_days": 5,
+   "items": [
+    "K-104",
+    "K-101"
+   ],
+   "expected": {
+    "orders": {
+     "K-104": {
+      "qty": 52,
+      "supplier": "ミノワ商店"
+     },
+     "K-101": {
+      "qty": 48,
+      "supplier": "タカセ食品卸"
+     }
+    },
+    "approvals": [
+     "K-104"
+    ],
+    "rejected": [],
+    "skipped": {}
+   }
+  }
+ ],
+ "rules": "# クロツグ食品 発注の手引き（架空）\n1. 発注する前に、必ず get_stock でその品目の在庫を確かめる。\n2. 在庫が発注点「以下」のときだけ発注する。発注数は「目標在庫 − 現在の在庫」。\n3. 仕入先は get_suppliers で調べ、納期が期限（依頼に書かれていなければ 7 日）以内の中で単価が最も安いところ。\n   単価が同じなら納期が短い方。\n4. 発注金額（単価 × 発注数）が 100,000 円以上なら、create_order の前に request_approval を呼ぶ。\n   approved のときだけ発注し、rejected なら発注しない。\n5. 販売終了の品目は発注しない。\n6. 品目名がはっきりしないときは search_items で探す。\n7. 最後に、何をしたか（発注した品目・数・仕入先、しなかった品目とその理由）を担当者向けに短く報告する。\n",
+ "approval_limit": 300000
+}

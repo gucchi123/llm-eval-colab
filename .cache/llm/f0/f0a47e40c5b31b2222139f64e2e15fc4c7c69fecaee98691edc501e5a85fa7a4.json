@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"請求・支払い\", \"rule\": \"R4\", \"confidence\": 96}", "model": "claude-sonnet-5-5", "in": 1020, "out": 30, "seconds": 1.46, "cost_usd": 0.00234, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"請求・支払い\", \"rule\": \"R4\", \"confidence\": 96}"}], "t": "2026-10-18T11:01:36"}

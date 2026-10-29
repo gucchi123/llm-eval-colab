@@ -1,0 +1,82 @@
+{
+ "paired": {
+  "n": 48,
+  "only_base": 14,
+  "only_cand": 0,
+  "diff": -0.2916666666666667,
+  "lo": -0.4166666666666667,
+  "hi": -0.16666666666666666,
+  "mcnemar_p": 0.0001220703125,
+  "perm_p": 0.0003999200159968006,
+  "source": "本物の実行（out・out）"
+ },
+ "cluster": {
+  "naive": 0.06629996666059658,
+  "clustered": 0.09501461875826149
+ },
+ "n_paired": [
+  [
+   "3 ポイント",
+   2542
+  ],
+  [
+   "5 ポイント",
+   914
+  ],
+  [
+   "10 ポイント",
+   227
+  ],
+  [
+   "20 ポイント",
+   57
+  ]
+ ],
+ "holm": {
+  "buried_money": {
+   "p": 0.0625,
+   "holm": false
+  },
+  "hedged_spec": {
+   "p": 0.125,
+   "holm": false
+  },
+  "lookalike": {
+   "p": 1.0,
+   "holm": false
+  },
+  "month_cross": {
+   "p": 0.5,
+   "holm": false
+  },
+  "phone_terse": {
+   "p": 0.5,
+   "holm": false
+  },
+  "wish_vs_rule": {
+   "p": 1.0,
+   "holm": false
+  }
+ },
+ "judge_consistency": {
+  "素朴な依頼文": [
+   9,
+   20
+  ],
+  "基準つきの依頼文": [
+   20,
+   20
+  ]
+ },
+ "sonnet_vs_opus_trimmed": {
+  "sonnet_only": 0,
+  "opus_only": 5,
+  "mcnemar_p": 0.0625,
+  "boot": {
+   "diff": 0.10416666666666667,
+   "lo": 0.020833333333333332,
+   "hi": 0.1875,
+   "n": 48
+  }
+ }
+}

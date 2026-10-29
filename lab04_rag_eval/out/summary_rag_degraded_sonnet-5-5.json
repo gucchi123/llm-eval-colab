@@ -1,0 +1,26 @@
+{
+ "model": "claude-sonnet-5-5",
+ "condition": "degraded",
+ "provider": "anthropic",
+ "effort": "high",
+ "retrieval": {
+  "recall@1": 0.8076923076923077,
+  "recall@3": 0.9615384615384616,
+  "mrr": 0.9519230769230769,
+  "ndcg@3": 0.9442557901046017,
+  "miss@3": [
+   "Q10"
+  ]
+ },
+ "n": 26,
+ "correct": 1,
+ "ci": [
+  0.006821984993543487,
+  0.18892778903034751
+ ],
+ "correct_v2": 1,
+ "checker_changed": [],
+ "abstained": 26,
+ "faithfulness_mean": null,
+ "cost_usd": 0.0433
+}

@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"配送\", \"rule\": \"R5\", \"confidence\": 97}", "model": "claude-sonnet-5-5", "in": 1009, "out": 26, "seconds": 1.57, "cost_usd": 0.002278, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"配送\", \"rule\": \"R5\", \"confidence\": 97}"}], "t": "2026-10-18T11:01:57"}

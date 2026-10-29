@@ -1,0 +1,1 @@
+{"text": "{\"verdict\": \"fail\", \"failed_check\": 1, \"reason\": \"未開封でも到着30日以内の条件があるのに日数不問と案内\"}", "model": "claude-sonnet-5-5", "in": 1037, "out": 53, "seconds": 1.15, "cost_usd": 0.002604, "stop": "end_turn", "content": [{"type": "text", "text": "{\"verdict\": \"fail\", \"failed_check\": 1, \"reason\": \"未開封でも到着30日以内の条件があるのに日数不問と案内\"}"}], "t": "2026-10-18T11:14:04"}

@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"会員・解約\", \"rule\": \"R0\", \"confidence\": 88}", "model": "claude-sonnet-5-5", "in": 1010, "out": 221, "seconds": 4.36, "cost_usd": 0.00423, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"会員・解約\", \"rule\": \"R0\", \"confidence\": 88}"}], "t": "2026-10-18T11:02:08"}

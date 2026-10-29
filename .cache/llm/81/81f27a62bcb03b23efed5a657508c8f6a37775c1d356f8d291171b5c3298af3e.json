@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"請求・支払い\", \"rule\": \"R4\", \"confidence\": 95}", "model": "claude-opus-5-5", "in": 1020, "out": 90, "seconds": 2.24, "cost_usd": 0.00588, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"請求・支払い\", \"rule\": \"R4\", \"confidence\": 95}"}], "t": "2026-10-18T11:00:26"}

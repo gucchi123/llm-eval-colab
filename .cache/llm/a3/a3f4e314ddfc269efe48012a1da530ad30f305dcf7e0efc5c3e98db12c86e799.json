@@ -1,0 +1,1 @@
+{"text": "{\"claims\": [{\"claim\": \"連続運転 4 時間ごとに、30 分以上の休憩が必要である\", \"supported\": true}]}", "model": "claude-sonnet-5-5", "in": 441, "out": 50, "seconds": 1.51, "cost_usd": 0.001382, "stop": "end_turn", "content": [{"type": "text", "text": "{\"claims\": [{\"claim\": \"連続運転 4 時間ごとに、30 分以上の休憩が必要である\", \"supported\": true}]}"}], "t": "2026-10-18T11:38:32"}

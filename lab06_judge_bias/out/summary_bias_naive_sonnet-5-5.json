@@ -1,0 +1,45 @@
+{
+ "model": "claude-sonnet-5-5",
+ "prompt": "naive",
+ "provider": "anthropic",
+ "effort": "high",
+ "result": {
+  "equal": {
+   "pairs": 20,
+   "judgments": 40,
+   "decided": 20,
+   "first_pos_wins": 7,
+   "first_pos_rate": 0.35,
+   "first_pos_ci": [
+    0.1811918241010821,
+    0.5671457233147637
+   ],
+   "consistent": 9,
+   "final": {
+    "x": 3,
+    "y": 1,
+    "tie": 16
+   },
+   "per_order_y": 11
+  },
+  "length": {
+   "pairs": 20,
+   "judgments": 40,
+   "decided": 40,
+   "first_pos_wins": 20,
+   "first_pos_rate": 0.5,
+   "first_pos_ci": [
+    0.35199526933465386,
+    0.6480047306653461
+   ],
+   "consistent": 20,
+   "final": {
+    "x": 20,
+    "y": 0,
+    "tie": 0
+   },
+   "per_order_y": 0
+  }
+ },
+ "cost_usd": 0.2732
+}

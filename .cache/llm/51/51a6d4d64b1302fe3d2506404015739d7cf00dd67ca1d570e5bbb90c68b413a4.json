@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"配送\", \"rule\": \"R5\", \"confidence\": 95}", "model": "claude-opus-5-5", "in": 1010, "out": 70, "seconds": 2.16, "cost_usd": 0.00544, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"配送\", \"rule\": \"R5\", \"confidence\": 95}"}], "t": "2026-10-18T11:00:56"}

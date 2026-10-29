@@ -1,0 +1,36 @@
+{
+ "seeds": {
+  "inquiries": 20261018,
+  "hard": 20261021,
+  "golden": 7,
+  "fewshot": 11,
+  "claims": 20261019,
+  "replies": 20261020
+ },
+ "sha256": {
+  "inquiries_pool.jsonl": "70a72309b1a83a6dd2b1b9e58b31f139f90851709f903cbabd93415a7996d782",
+  "golden_inquiries.jsonl": "ac989f03668f9336c17095795e1d4b4fb6850344276e7792bbcbbcc29a47777e",
+  "fewshot_inquiries.jsonl": "3854fc83c7e1660aad266b87e1c3661eb2ec8e9718c20e03e60350f3c2bd36ce",
+  "golden_inquiries_v2_hard.jsonl": "2471ce254beab13b8c7296b3a926618fdcbc3f57583440bc26cd374b28695520",
+  "guide_inquiries.md": "8cd2aad02f609b5f3c73888183e2352c935c88329d017456e11ca520f8da0fd2",
+  "claims.jsonl": "adf2991976d8902add4644a2ab771c971ba078bbc7d1284a8c417776f9dfa6fd",
+  "policies.json": "4a4d68d709729832a70abe2f8e449a077178e71812fcec4b8bb768c700d5df60",
+  "agent.json": "5658cfc15b4151df844f393538bd0307934d67ebb0982220374181951ada4b18",
+  "replies.jsonl": "c8abed0237e057e5568e61bd9ae9f43e6932af98509b5c4dcde015ff1c981e4a",
+  "pairs.jsonl": "10d97720a098a909e215b5826d51588c22f590dc5d05e5234cf3763ae3ebcf2f",
+  "reply_policy.md": "eef54964b400dc4fa315bd3c7ee17018cd5301511d584a8494bc239992c50a41",
+  "safety.json": "1425194d2667e77eaf4a8dda236305e9e51f57b6789da48e5eb7546735c7f78f"
+ },
+ "counts": {
+  "pool": 600,
+  "golden": 120,
+  "fewshot": 12,
+  "hard": 48,
+  "claims": 48,
+  "questions": 30,
+  "agent_tasks": 10,
+  "replies": 80,
+  "pairs": 52,
+  "safety": 24
+ }
+}

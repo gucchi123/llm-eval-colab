@@ -1,0 +1,1 @@
+{"text": "", "model": "claude-sonnet-5-5", "in": 1245, "out": 55, "seconds": 1.31, "cost_usd": 0.00304, "stop": "tool_use", "content": [{"type": "tool_use", "id": "toolu_01BM18iu85rxeKsZZadMwCrn", "name": "search_items", "input": {"query": "かつお節パック 500g"}}], "t": "2026-10-18T11:06:40"}

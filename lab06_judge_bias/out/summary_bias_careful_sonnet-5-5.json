@@ -1,0 +1,63 @@
+{
+ "model": "claude-sonnet-5-5",
+ "prompt": "careful",
+ "provider": "anthropic",
+ "effort": "high",
+ "result": {
+  "equal": {
+   "pairs": 20,
+   "judgments": 40,
+   "decided": 0,
+   "first_pos_wins": 0,
+   "first_pos_rate": NaN,
+   "first_pos_ci": [
+    0,
+    1
+   ],
+   "consistent": 20,
+   "final": {
+    "x": 0,
+    "y": 0,
+    "tie": 20
+   },
+   "per_order_y": 0
+  },
+  "length": {
+   "pairs": 20,
+   "judgments": 40,
+   "decided": 20,
+   "first_pos_wins": 9,
+   "first_pos_rate": 0.45,
+   "first_pos_ci": [
+    0.25819785825562425,
+    0.6579146575496576
+   ],
+   "consistent": 14,
+   "final": {
+    "x": 7,
+    "y": 0,
+    "tie": 13
+   },
+   "per_order_y": 0
+  },
+  "long_wrong": {
+   "pairs": 12,
+   "judgments": 24,
+   "decided": 24,
+   "first_pos_wins": 12,
+   "first_pos_rate": 0.5,
+   "first_pos_ci": [
+    0.3142742581957336,
+    0.6857257418042664
+   ],
+   "consistent": 12,
+   "final": {
+    "x": 12,
+    "y": 0,
+    "tie": 0
+   },
+   "per_order_y": 0
+  }
+ },
+ "cost_usd": 0.3911
+}

@@ -1,0 +1,1 @@
+{"text": "{\"claims\": [{\"claim\": \"日帰り出張の日当は 1,000 円である\", \"supported\": true}]}", "model": "claude-sonnet-5-5", "in": 589, "out": 40, "seconds": 1.16, "cost_usd": 0.001578, "stop": "end_turn", "content": [{"type": "text", "text": "{\"claims\": [{\"claim\": \"日帰り出張の日当は 1,000 円である\", \"supported\": true}]}"}], "t": "2026-10-18T11:38:30"}

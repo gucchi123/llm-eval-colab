@@ -1,0 +1,71 @@
+[
+ {
+  "name": "指定の組",
+  "baseline": "lab03_classify_extract\\out_mock\\runs_classify_v2_opus-5-5.jsonl",
+  "candidate": "lab09_ci_gate\\out_mock\\runs_candidate_v2_opus-5-5.jsonl",
+  "n": 48,
+  "base_acc": 0.5625,
+  "cand_acc": 0.7708333333333334,
+  "diff": 0.20833333333333334,
+  "lower": 0.041666666666666664,
+  "mcnemar_p": 0.07551869750022888,
+  "checks": [
+   {
+    "name": "非劣性（差の下限 > −0.03）",
+    "ok": true,
+    "detail": "差 +0.208、片側95%下限 +0.042、基準だけ正解 8 / 候補だけ正解 18、McNemar p=0.0755"
+   },
+   {
+    "name": "層の床（どの種類も 25 ポイント超は落ちない）",
+    "ok": true,
+    "detail": "buried_money 62%→62% (n=8); hedged_spec 50%→62% (n=8); lookalike 62%→75% (n=8)"
+   },
+   {
+    "name": "無効な出力 0 件",
+    "ok": true,
+    "detail": "0 件"
+   }
+  ],
+  "pass": true,
+  "cost_base": 0.0,
+  "cost_cand": 0.0,
+  "slices": [
+   [
+    "buried_money",
+    8,
+    0.625,
+    0.625
+   ],
+   [
+    "hedged_spec",
+    8,
+    0.5,
+    0.625
+   ],
+   [
+    "lookalike",
+    8,
+    0.625,
+    0.75
+   ],
+   [
+    "month_cross",
+    8,
+    0.375,
+    1.0
+   ],
+   [
+    "phone_terse",
+    8,
+    0.5,
+    0.75
+   ],
+   [
+    "wish_vs_rule",
+    8,
+    0.75,
+    0.875
+   ]
+  ]
+ }
+]

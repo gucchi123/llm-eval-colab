@@ -1,0 +1,23 @@
+{
+ "model": "claude-opus-5-5",
+ "prompt": "v2",
+ "split": "test",
+ "provider": "anthropic",
+ "effort": "high",
+ "n": 42,
+ "tp": 17,
+ "fn": 3,
+ "tn": 22,
+ "fp": 0,
+ "tpr": 0.85,
+ "tnr": 1.0,
+ "kappa": 0.8558352402745996,
+ "prevalence": {
+  "observed": 0.40476190476190477,
+  "corrected": 0.43174603174603166,
+  "lo": 0.272108843537415,
+  "hi": 0.6071428571428571
+ },
+ "true_rate": 0.47619047619047616,
+ "cost_usd": 0.3637
+}

@@ -1,0 +1,15 @@
+# GitHub Actions に入れる例（このキットでは有効にしていない）
+# 依頼文・モデルを変えた PR で、記録の再生だけで関門を回す。新しい依頼は API を呼ばずに止まる（LLM_CACHE_ONLY=1）。
+name: eval-gate
+on: [pull_request]
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python -m pytest
+        env: { LLM_CACHE_ONLY: "1" }
+      - run: cd lab09_ci_gate && python gate.py

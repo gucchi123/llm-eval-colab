@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"修理・故障\", \"rule\": \"-\", \"confidence\": 80}", "model": "claude-opus-5-5", "in": 318, "out": 390, "seconds": 5.11, "cost_usd": 0.009072, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"修理・故障\", \"rule\": \"-\", \"confidence\": 80}"}], "t": "2026-10-18T11:39:32"}

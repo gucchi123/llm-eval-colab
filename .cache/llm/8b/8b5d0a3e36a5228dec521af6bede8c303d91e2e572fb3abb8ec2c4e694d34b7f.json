@@ -1,0 +1,1 @@
+{"text": "{\"winner\": \"tie\", \"reason\": \"本文は同一で、違いは定型挨拶の長さのみ\"}", "model": "claude-opus-5-5", "in": 563, "out": 415, "seconds": 5.7, "cost_usd": 0.010552, "stop": "end_turn", "content": [{"type": "text", "text": "{\"winner\": \"tie\", \"reason\": \"本文は同一で、違いは定型挨拶の長さのみ\"}"}], "t": "2026-10-18T11:41:17"}

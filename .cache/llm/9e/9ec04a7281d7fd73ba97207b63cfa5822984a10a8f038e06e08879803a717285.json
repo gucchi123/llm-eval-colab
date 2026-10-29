@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"使い方\", \"rule\": \"-\", \"confidence\": 55}", "model": "claude-opus-5-5", "in": 306, "out": 194, "seconds": 2.72, "cost_usd": 0.005104, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"使い方\", \"rule\": \"-\", \"confidence\": 55}"}], "t": "2026-10-18T11:39:50"}

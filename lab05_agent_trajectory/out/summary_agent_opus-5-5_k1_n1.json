@@ -1,0 +1,31 @@
+{
+ "model": "claude-opus-5-5",
+ "effort": "high",
+ "provider": "anthropic",
+ "k": 1,
+ "episodes": 1,
+ "pass": 1,
+ "outcome_ok": 1,
+ "ci": [
+  0.20654931437723745,
+  1.0
+ ],
+ "pass_hat_1": 1.0,
+ "pass_at_1": 1.0,
+ "cost_usd": 0.0449,
+ "per_task": {
+  "T04": {
+   "n": 1,
+   "c": 1,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.044888,
+   "calls": [
+    5
+   ],
+   "turns": [
+    5
+   ]
+  }
+ }
+}

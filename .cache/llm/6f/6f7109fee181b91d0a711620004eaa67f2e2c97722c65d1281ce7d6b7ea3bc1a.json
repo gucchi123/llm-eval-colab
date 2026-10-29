@@ -1,0 +1,1 @@
+{"text": "{\"claims\": [{\"claim\": \"時間単位の有給休暇は年5日分まで取得できる\", \"supported\": true}]}", "model": "claude-sonnet-5-5", "in": 470, "out": 44, "seconds": 1.18, "cost_usd": 0.00138, "stop": "end_turn", "content": [{"type": "text", "text": "{\"claims\": [{\"claim\": \"時間単位の有給休暇は年5日分まで取得できる\", \"supported\": true}]}"}], "t": "2026-10-18T11:38:30"}

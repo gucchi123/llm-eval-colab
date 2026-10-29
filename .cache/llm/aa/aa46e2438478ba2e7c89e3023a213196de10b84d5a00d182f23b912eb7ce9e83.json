@@ -1,0 +1,1 @@
+{"text": "", "model": "claude-sonnet-5-5", "in": 1248, "out": 53, "seconds": 1.38, "cost_usd": 0.003026, "stop": "tool_use", "content": [{"type": "tool_use", "id": "toolu_01QcjTttZoVEx2qKJUHuFTPK", "name": "search_items", "input": {"query": "業務用ごま油"}}], "t": "2026-10-18T11:07:16"}

@@ -1,0 +1,1 @@
+{"text": "", "model": "claude-opus-5-5", "in": 1663, "out": 171, "seconds": 2.3, "cost_usd": 0.010072, "stop": "tool_use", "content": [{"type": "tool_use", "id": "toolu_01Crb2p72CuUusTHRPTXo7xT", "name": "create_order", "input": {"code": "K-105", "qty": 10, "supplier": "ミノワ商店"}}], "t": "2026-10-18T11:40:27"}

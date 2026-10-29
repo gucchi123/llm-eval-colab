@@ -1,0 +1,189 @@
+{
+ "model": "claude-opus-5-5",
+ "effort": "high",
+ "provider": "anthropic",
+ "k": 3,
+ "episodes": 30,
+ "pass": 30,
+ "outcome_ok": 30,
+ "ci": [
+  0.8864866068260314,
+  1.0
+ ],
+ "pass_hat_1": 1.0,
+ "pass_at_3": 1.0,
+ "pass_hat_3": 1.0,
+ "cost_usd": 1.1947,
+ "per_task": {
+  "T01": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.118812,
+   "calls": [
+    4,
+    4,
+    4
+   ],
+   "turns": [
+    4,
+    5,
+    5
+   ]
+  },
+  "T02": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.074384,
+   "calls": [
+    3,
+    3,
+    3
+   ],
+   "turns": [
+    3,
+    3,
+    3
+   ]
+  },
+  "T03": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.07461599999999999,
+   "calls": [
+    3,
+    3,
+    3
+   ],
+   "turns": [
+    3,
+    3,
+    3
+   ]
+  },
+  "T04": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.135784,
+   "calls": [
+    5,
+    5,
+    5
+   ],
+   "turns": [
+    5,
+    5,
+    5
+   ]
+  },
+  "T05": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.109396,
+   "calls": [
+    4,
+    4,
+    4
+   ],
+   "turns": [
+    4,
+    4,
+    4
+   ]
+  },
+  "T06": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.108568,
+   "calls": [
+    4,
+    4,
+    4
+   ],
+   "turns": [
+    4,
+    4,
+    4
+   ]
+  },
+  "T07": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.142212,
+   "calls": [
+    8,
+    8,
+    8
+   ],
+   "turns": [
+    4,
+    4,
+    4
+   ]
+  },
+  "T08": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.12196000000000001,
+   "calls": [
+    4,
+    4,
+    4
+   ],
+   "turns": [
+    4,
+    4,
+    4
+   ]
+  },
+  "T09": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.12002399999999999,
+   "calls": [
+    4,
+    4,
+    4
+   ],
+   "turns": [
+    4,
+    5,
+    5
+   ]
+  },
+  "T10": {
+   "n": 3,
+   "c": 3,
+   "outcome_only": 0,
+   "violations": [],
+   "cost": 0.18897999999999998,
+   "calls": [
+    9,
+    9,
+    9
+   ],
+   "turns": [
+    6,
+    5,
+    5
+   ]
+  }
+ }
+}

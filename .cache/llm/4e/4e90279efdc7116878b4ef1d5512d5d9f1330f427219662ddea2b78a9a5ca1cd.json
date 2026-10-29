@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"返品・交換\", \"rule\": \"R2\", \"confidence\": 96}", "model": "claude-sonnet-5-5", "in": 1008, "out": 29, "seconds": 1.19, "cost_usd": 0.002306, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"返品・交換\", \"rule\": \"R2\", \"confidence\": 96}"}], "t": "2026-10-18T11:01:56"}

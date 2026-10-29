@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+# 自己検査（mock）の出力
+out_mock/
+_nbrun/
+dist/
+# 費用台帳（呼ぶたびに手元に 1 行ずつ残る。配布物には含めない）
+_api_cost_ledger.jsonl
+# 制作用の調べもの
+research/

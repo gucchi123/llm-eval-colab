@@ -1,0 +1,23 @@
+{
+ "model": "claude-sonnet-5-5",
+ "prompt": "v1",
+ "split": "dev",
+ "provider": "anthropic",
+ "effort": "high",
+ "n": 38,
+ "tp": 15,
+ "fn": 1,
+ "tn": 10,
+ "fp": 12,
+ "tpr": 0.9375,
+ "tnr": 0.45454545454545453,
+ "kappa": 0.35844155844155856,
+ "prevalence": {
+  "observed": 0.7105263157894737,
+  "corrected": 0.4210526315789474,
+  "lo": 0.0,
+  "hi": 0.8842105263157899
+ },
+ "true_rate": 0.42105263157894735,
+ "cost_usd": 0.1678
+}

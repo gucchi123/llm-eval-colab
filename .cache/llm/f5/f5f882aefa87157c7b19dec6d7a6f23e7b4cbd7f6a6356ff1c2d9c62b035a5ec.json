@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"使い方\", \"rule\": \"R1\", \"confidence\": 93}", "model": "claude-sonnet-5-5", "in": 1098, "out": 27, "seconds": 2.98, "cost_usd": 0.002466, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"使い方\", \"rule\": \"R1\", \"confidence\": 93}"}], "t": "2026-10-18T11:02:07"}

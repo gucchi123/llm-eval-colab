@@ -1,0 +1,1 @@
+{"text": "{\"label\": \"修理・故障\", \"rule\": \"-\", \"confidence\": 92}", "model": "claude-sonnet-5-5", "in": 314, "out": 198, "seconds": 2.0, "cost_usd": 0.002608, "stop": "end_turn", "content": [{"type": "text", "text": "{\"label\": \"修理・故障\", \"rule\": \"-\", \"confidence\": 92}"}], "t": "2026-10-18T11:18:54"}

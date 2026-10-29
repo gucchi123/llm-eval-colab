@@ -1,0 +1,36 @@
+{
+ "model": "claude-sonnet-5-5",
+ "effort": "high",
+ "provider": "anthropic",
+ "n": 48,
+ "strict": {
+  "n": 48,
+  "per_field": {
+   "policy_no": 1.0,
+   "claimant": 1.0,
+   "incident_date": 1.0,
+   "claim_amount": 1.0,
+   "category": 1.0,
+   "receipt_attached": 1.0
+  },
+  "doc_all_correct": 1.0
+ },
+ "normalized": {
+  "n": 48,
+  "per_field": {
+   "policy_no": 1.0,
+   "claimant": 1.0,
+   "incident_date": 1.0,
+   "claim_amount": 1.0,
+   "category": 1.0,
+   "receipt_attached": 1.0
+  },
+  "doc_all_correct": 1.0
+ },
+ "doc_all_correct_ci": [
+  0.9258998703338824,
+  0.9999999999999999
+ ],
+ "errors": [],
+ "cost_usd": 0.0957
+}

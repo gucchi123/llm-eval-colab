@@ -1,0 +1,1610 @@
+{
+ "P1_veteran_qa": {
+  "RPL-031": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "確認後5営業日で取消、手順あり"
+  },
+  "RPL-046": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を読めと責める表現"
+  },
+  "RPL-041": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理の申込方法など手順が無い"
+  },
+  "RPL-065": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で修理、手順あり"
+  },
+  "RPL-039": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目で修理、手順あり"
+  },
+  "RPL-053": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理案内のみで次の手順が無い"
+  },
+  "RPL-035": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "表に無い項目、手順あり"
+  },
+  "RPL-048": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金、注文番号の依頼あり"
+  },
+  "RPL-013": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で規程どおり"
+  },
+  "RPL-016": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "14日以内の交換・返品、手順あり"
+  },
+  "RPL-003": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目、無償修理で正しい"
+  },
+  "RPL-044": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "説明書PDFの案内で適切"
+  },
+  "RPL-030": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "配達変更の案内は正しい"
+  },
+  "RPL-001": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で正しい"
+  },
+  "RPL-054": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "発送後も変更は受ける決まり"
+  },
+  "RPL-051": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "13日目で交換・返品が正しい"
+  },
+  "RPL-047": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは約束不可"
+  },
+  "RPL-080": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは約束不可"
+  },
+  "RPL-022": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」で責めている"
+  },
+  "RPL-073": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「よくお読みいただければ」は責める"
+  },
+  "RPL-023": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "表に無い件。手順あり"
+  },
+  "RPL-012": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "確認と返金だけで手順なし"
+  },
+  "RPL-043": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料・手数料の当社負担を約束"
+  },
+  "RPL-042": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料・手数料の当社負担を約束"
+  },
+  "RPL-074": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "日数にかかわらず返品は誤り"
+  },
+  "RPL-068": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書はPDF無料。有料は誤り"
+  },
+  "RPL-015": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書をお読みくださいと責めている"
+  },
+  "RPL-006": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり。手順あり"
+  },
+  "RPL-060": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金と注文番号依頼あり"
+  },
+  "RPL-056": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "PDF案内は規程どおり"
+  },
+  "RPL-049": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で規程どおり"
+  },
+  "RPL-062": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書をよくお読みいただければ"
+  },
+  "RPL-034": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは権限外"
+  },
+  "RPL-010": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡番号案内と連絡約束あり"
+  },
+  "RPL-055": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "確認のうえ5営業日以内に取消"
+  },
+  "RPL-026": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり手順あり"
+  },
+  "RPL-014": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり手順あり"
+  },
+  "RPL-079": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "翌月相殺は規程外、取消が正"
+  },
+  "RPL-029": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "7/13到着〜8/7は25日目、修理は正しい…"
+  },
+  "RPL-038": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり手順あり"
+  },
+  "RPL-057": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処あり"
+  },
+  "RPL-058": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-011": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "変更の方法・場所が無い"
+  },
+  "RPL-020": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書はPDF無料のはず"
+  },
+  "RPL-021": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と対処あり"
+  },
+  "RPL-076": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "交換は14日以内、30日は誤り"
+  },
+  "RPL-072": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは約束不可"
+  },
+  "RPL-040": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "交換は14日以内、30日は誤り"
+  },
+  "RPL-067": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担は不可"
+  },
+  "RPL-024": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金と手順あり"
+  },
+  "RPL-037": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "再設定手順を案内している"
+  },
+  "RPL-005": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で無償修理、正しい"
+  },
+  "RPL-061": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で適切"
+  },
+  "RPL-018": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返信で変更を受け付けている"
+  },
+  "RPL-025": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページで退会と案内"
+  },
+  "RPL-050": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "日数にかかわらず返品は誤り"
+  },
+  "RPL-069": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と返信の手順あり"
+  },
+  "RPL-075": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "16日目で無償修理、正しい"
+  },
+  "RPL-077": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "25日目で修理、規程どおり"
+  },
+  "RPL-070": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡番号と連絡時期を案内"
+  },
+  "RPL-059": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」と責めている"
+  },
+  "RPL-007": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり、手順もある"
+  },
+  "RPL-063": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "次に何をするかの案内が無い"
+  },
+  "RPL-033": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と対処があり問題なし"
+  },
+  "RPL-027": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "14日以内だが手順の案内が無い"
+  },
+  "RPL-064": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目で交換可、手順もある"
+  },
+  "RPL-017": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "45日なので無償修理で正しい"
+  },
+  "RPL-032": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」と責めている"
+  },
+  "RPL-066": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更を受け付け、返信で連絡する手順あり"
+  },
+  "RPL-019": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり、手順もある"
+  },
+  "RPL-028": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "交換・返品の手続き手順が無い"
+  },
+  "RPL-078": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返信での変更手順あり"
+  },
+  "RPL-045": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処あり"
+  },
+  "RPL-036": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは約束できない"
+  },
+  "RPL-052": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "不具合は14日以内。30日は誤り"
+  },
+  "RPL-009": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処が正しい"
+  },
+  "RPL-008": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "お詫びポイントは権限外"
+  },
+  "RPL-002": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順あり"
+  },
+  "RPL-004": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目で14日以内、手順あり"
+  },
+  "RPL-071": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」と責めている"
+  }
+ },
+ "P2_new_operator": {
+  "RPL-002": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "30日・送料負担・手順あり"
+  },
+  "RPL-017": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "45日、無償修理で正しい"
+  },
+  "RPL-077": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "25日目、修理で正しい"
+  },
+  "RPL-063": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "交換・返品の申込手順がない"
+  },
+  "RPL-041": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理の申込手順がない"
+  },
+  "RPL-023": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "会員サイトの手順あり"
+  },
+  "RPL-009": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様と対処を説明"
+  },
+  "RPL-021": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様と対処、返信先あり"
+  },
+  "RPL-064": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目、交換返品と手順あり"
+  },
+  "RPL-030": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返信で日時を受ける"
+  },
+  "RPL-039": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目で修理案内、規程どおり"
+  },
+  "RPL-044": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "説明書PDFの場所を案内"
+  },
+  "RPL-036": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円ポイントは約束できない"
+  },
+  "RPL-079": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "翌月相殺は誤り。5営業日で取消"
+  },
+  "RPL-076": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "30日以内は誤り。14日以内が正"
+  },
+  "RPL-071": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-003": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目で修理案内、規程どおり"
+  },
+  "RPL-029": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "25日目で修理案内、規程どおり"
+  },
+  "RPL-043": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担は約束不可"
+  },
+  "RPL-015": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書をよく読めと責めている"
+  },
+  "RPL-016": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "3日目で14日以内、手順あり"
+  },
+  "RPL-018": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更を受け付け、返信で案内"
+  },
+  "RPL-034": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円ポイントは権限外"
+  },
+  "RPL-014": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順あり"
+  },
+  "RPL-056": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "説明書PDFを案内している"
+  },
+  "RPL-007": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "確認後5営業日で取消、手順あり"
+  },
+  "RPL-051": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "13日目で14日以内、規程どおり"
+  },
+  "RPL-061": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ手続きを案内"
+  },
+  "RPL-060": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金、注文番号の依頼あり"
+  },
+  "RPL-033": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様と対処を説明、交換せず"
+  },
+  "RPL-020": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書はPDF無料。有料は誤り"
+  },
+  "RPL-006": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更受付と返信での手順あり"
+  },
+  "RPL-050": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "30日以内の条件に反する案内"
+  },
+  "RPL-070": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡番号の案内と連絡の約束あり"
+  },
+  "RPL-075": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "16日目で無償修理は規程どおり"
+  },
+  "RPL-022": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」とお客様を責めている"
+  },
+  "RPL-011": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "変更の方法・次の手順が無い"
+  },
+  "RPL-054": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "発送後も変更は受ける決まり"
+  },
+  "RPL-037": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "再設定の手順が案内されている"
+  },
+  "RPL-028": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "交換・返品の手続き方法が無い"
+  },
+  "RPL-065": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で修理案内、手順あり"
+  },
+  "RPL-073": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を読めば、と責めている"
+  },
+  "RPL-053": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理の申込方法が書かれていない"
+  },
+  "RPL-047": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "ポイント付与は権限外"
+  },
+  "RPL-058": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-008": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "ポイント付与は権限外"
+  },
+  "RPL-004": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目で交換可、手順あり"
+  },
+  "RPL-035": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更方法を案内できている"
+  },
+  "RPL-012": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金は表どおり"
+  },
+  "RPL-074": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "日数不問は30日の特約と違う"
+  },
+  "RPL-078": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "発送後も変更可。返信で手順あり"
+  },
+  "RPL-072": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは表に無い約束"
+  },
+  "RPL-013": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で規程どおり"
+  },
+  "RPL-067": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担は約束できない"
+  },
+  "RPL-025": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおりで手順もある"
+  },
+  "RPL-048": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金と注文番号の依頼あり"
+  },
+  "RPL-049": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおりで手順もある"
+  },
+  "RPL-032": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」はお客様を責める表現"
+  },
+  "RPL-040": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "不具合の期間が14日以内で、30日は誤り"
+  },
+  "RPL-031": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "5営業日の取消と手順が適切"
+  },
+  "RPL-055": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "5営業日・明細の案内あり"
+  },
+  "RPL-062": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を読めと責めている"
+  },
+  "RPL-045": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と対処あり"
+  },
+  "RPL-057": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処あり"
+  },
+  "RPL-066": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更受付と返信手順あり"
+  },
+  "RPL-019": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり、手順あり"
+  },
+  "RPL-080": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円ポイントを約束"
+  },
+  "RPL-052": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "不具合は14日以内、30日は誤り"
+  },
+  "RPL-010": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡案内と連絡の約束あり"
+  },
+  "RPL-046": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を読めと責めている"
+  },
+  "RPL-001": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で正確"
+  },
+  "RPL-069": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と返信の案内あり"
+  },
+  "RPL-024": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金は表どおり"
+  },
+  "RPL-068": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書は会員サイトで無料PDF"
+  },
+  "RPL-027": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "次に何をするかの案内が無い"
+  },
+  "RPL-042": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担は約束不可"
+  },
+  "RPL-026": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり"
+  },
+  "RPL-005": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で無償修理が正しい"
+  },
+  "RPL-038": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり"
+  },
+  "RPL-059": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」で責めている"
+  }
+ },
+ "P3_strict_compliance": {
+  "RPL-043": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料・手数料の当社負担を約束"
+  },
+  "RPL-017": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目以降で保証内修理、手順あり"
+  },
+  "RPL-038": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順あり"
+  },
+  "RPL-007": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "確認後5営業日で取消、手順あり"
+  },
+  "RPL-076": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "14日以内を30日以内と誤記載"
+  },
+  "RPL-021": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と対処、交換なし"
+  },
+  "RPL-072": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントを約束"
+  },
+  "RPL-056": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "説明書PDFの案内は規程どおり"
+  },
+  "RPL-058": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」と客を責めている"
+  },
+  "RPL-047": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "不要なお詫びポイントを約束"
+  },
+  "RPL-069": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と返信案内あり"
+  },
+  "RPL-024": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金と手順あり"
+  },
+  "RPL-049": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で適切"
+  },
+  "RPL-073": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を読めと責める表現"
+  },
+  "RPL-035": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "表に無い内容。迷うが好みで落とさず"
+  },
+  "RPL-075": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "16日目で修理案内は正しい"
+  },
+  "RPL-013": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページから手続きと案内"
+  },
+  "RPL-008": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントを約束"
+  },
+  "RPL-077": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "25日目で無償修理案内は正しい"
+  },
+  "RPL-080": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントを約束"
+  },
+  "RPL-039": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目で修理案内、手順あり"
+  },
+  "RPL-001": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で規程どおり"
+  },
+  "RPL-026": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順あり"
+  },
+  "RPL-037": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "再設定の手順が読み取れる"
+  },
+  "RPL-063": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "交換・返品の申込手順が無い"
+  },
+  "RPL-034": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは権限外"
+  },
+  "RPL-022": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-002": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順あり"
+  },
+  "RPL-060": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金は表どおり、手順あり"
+  },
+  "RPL-055": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "5営業日取消は表どおり"
+  },
+  "RPL-003": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目で修理案内、手順あり"
+  },
+  "RPL-011": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "変更の手続き方法が書かれていない"
+  },
+  "RPL-028": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "次に何をするかの案内が無い"
+  },
+  "RPL-052": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "不具合の期間は14日で30日は誤り"
+  },
+  "RPL-040": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "不具合の期間は14日で30日は誤り"
+  },
+  "RPL-016": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり、手順もあり"
+  },
+  "RPL-044": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "説明書PDFの案内と手順あり"
+  },
+  "RPL-074": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "日数不問は誤り、30日以内・送料客負担"
+  },
+  "RPL-051": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "13日目で14日以内、手順あり"
+  },
+  "RPL-066": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更を受け付け、返信で依頼できる"
+  },
+  "RPL-054": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "発送後も変更を受ける決まりと矛盾"
+  },
+  "RPL-078": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり・手順あり"
+  },
+  "RPL-079": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "相殺は不可。5営業日以内に取消が決まり"
+  },
+  "RPL-029": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "25日目で修理案内は正しい"
+  },
+  "RPL-064": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目で交換・返品、手順あり"
+  },
+  "RPL-004": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目で交換・返品、手順あり"
+  },
+  "RPL-068": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書はPDF無料。有料は誤り"
+  },
+  "RPL-005": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で修理案内は正しい"
+  },
+  "RPL-015": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を読めば、と顧客を責めている"
+  },
+  "RPL-067": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料・手数料の当社負担は約束できない"
+  },
+  "RPL-050": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "日数にかかわらず返品は規程違反"
+  },
+  "RPL-027": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "手続き方法の案内が無い"
+  },
+  "RPL-041": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理の依頼方法が示されていない"
+  },
+  "RPL-048": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金と注文番号の依頼あり"
+  },
+  "RPL-070": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡確認と連絡時期を明示"
+  },
+  "RPL-036": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは権限外"
+  },
+  "RPL-018": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更受付と返信手順あり"
+  },
+  "RPL-010": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡確認と連絡時期を明示"
+  },
+  "RPL-033": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処、交換なしで適合"
+  },
+  "RPL-014": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおりで手順あり"
+  },
+  "RPL-065": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で修理案内が正しい"
+  },
+  "RPL-042": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担は約束不可"
+  },
+  "RPL-031": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "確認条件つきで規程どおり"
+  },
+  "RPL-061": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で規程どおり"
+  },
+  "RPL-046": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を読めという責める表現"
+  },
+  "RPL-025": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "退会はマイページで正しい"
+  },
+  "RPL-030": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更を返信で受ける案内が正しい"
+  },
+  "RPL-032": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-020": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書の再発行有料は規程と相違"
+  },
+  "RPL-057": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処で規程どおり"
+  },
+  "RPL-053": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理の申込方法が無い"
+  },
+  "RPL-071": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-009": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と対処あり"
+  },
+  "RPL-059": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-006": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返信で日時を受ける案内"
+  },
+  "RPL-012": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "時期や次の手順が読み取れない"
+  },
+  "RPL-062": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書をお読みくださいと責める"
+  },
+  "RPL-023": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更手順あり"
+  },
+  "RPL-045": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処あり"
+  },
+  "RPL-019": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "5営業日・必要情報を案内"
+  }
+ },
+ "P4_customer_view": {
+  "RPL-060": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり・手順あり"
+  },
+  "RPL-053": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理の申込手順が無い"
+  },
+  "RPL-066": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "発送後変更可・手順あり"
+  },
+  "RPL-067": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担を約束"
+  },
+  "RPL-054": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "発送後の変更は受ける決まり"
+  },
+  "RPL-043": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担を約束"
+  },
+  "RPL-074": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "返品は30日以内の特約"
+  },
+  "RPL-033": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処あり"
+  },
+  "RPL-072": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "ポイント付与は権限外"
+  },
+  "RPL-075": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "16日目で修理・手順あり"
+  },
+  "RPL-032": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-022": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-024": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "差額返金と手順あり"
+  },
+  "RPL-044": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "説明書の案内が適切"
+  },
+  "RPL-071": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-021": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処あり"
+  },
+  "RPL-038": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順あり"
+  },
+  "RPL-049": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で正確"
+  },
+  "RPL-015": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "よくお読みいただければ"
+  },
+  "RPL-027": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "申込先や手順の案内なし"
+  },
+  "RPL-065": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で修理案内は正しい"
+  },
+  "RPL-068": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書は会員サイトで無料PDF"
+  },
+  "RPL-025": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で正しい"
+  },
+  "RPL-018": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返信で変更を受ける案内は正しい"
+  },
+  "RPL-003": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目で修理案内は正しい"
+  },
+  "RPL-061": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "配信停止はマイページで正しい"
+  },
+  "RPL-023": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "表に無い内容。手順は明確"
+  },
+  "RPL-016": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "14日以内の交換・返品で正しい"
+  },
+  "RPL-050": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "返品は30日以内。日数無制限は誤り"
+  },
+  "RPL-029": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "25日目で修理案内は正しい"
+  },
+  "RPL-047": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円ポイントは権限外"
+  },
+  "RPL-001": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で問題なし"
+  },
+  "RPL-059": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "ご確認不足と責めている"
+  },
+  "RPL-035": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおり手順あり"
+  },
+  "RPL-042": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "送料手数料の当社負担は権限外"
+  },
+  "RPL-073": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書をよくお読みと責める"
+  },
+  "RPL-069": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と返信の手順あり"
+  },
+  "RPL-051": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "13日目で14日以内、正しい"
+  },
+  "RPL-046": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書をよくお読みと責める"
+  },
+  "RPL-030": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "再配達の受付と手順あり"
+  },
+  "RPL-011": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "変更の手続き方法が示されていない"
+  },
+  "RPL-005": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "18日目で修理案内、正しい"
+  },
+  "RPL-039": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "15日目で修理案内、正しい"
+  },
+  "RPL-026": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順もある"
+  },
+  "RPL-006": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "変更受付と返信手順あり"
+  },
+  "RPL-034": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円ポイントは権限外"
+  },
+  "RPL-057": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と対処あり"
+  },
+  "RPL-009": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様の説明と対処あり"
+  },
+  "RPL-070": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡番号と連絡約束あり"
+  },
+  "RPL-078": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "発送後も変更可、手順あり"
+  },
+  "RPL-020": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "説明書は無料PDFのはずが有料と案内"
+  },
+  "RPL-036": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "3,000円分ポイントは権限外"
+  },
+  "RPL-012": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "次の手順や連絡時期が無い"
+  },
+  "RPL-079": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "5営業日以内の取消でなく翌月相殺"
+  },
+  "RPL-058": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "「ご確認不足」とお客様を責めている"
+  },
+  "RPL-048": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおりで手順もある"
+  },
+  "RPL-056": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "PDF案内は規程どおり"
+  },
+  "RPL-008": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "不要なお詫びポイントを約束"
+  },
+  "RPL-013": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "マイページ案内で適切"
+  },
+  "RPL-017": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "45日目で無償修理案内は正しい"
+  },
+  "RPL-077": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "25日目で修理案内は正しい"
+  },
+  "RPL-002": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり"
+  },
+  "RPL-063": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "交換・返品の手続き方法がない"
+  },
+  "RPL-080": {
+   "verdict": "fail",
+   "code": "d",
+   "note": "お詫びポイントは権限外"
+  },
+  "RPL-031": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "取消案内と依頼事項あり"
+  },
+  "RPL-045": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "仕様説明と対処あり"
+  },
+  "RPL-062": {
+   "verdict": "fail",
+   "code": "c",
+   "note": "説明書を持ち出し責めている"
+  },
+  "RPL-010": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "追跡案内と連絡期限あり"
+  },
+  "RPL-052": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "不具合は14日以内が正しい"
+  },
+  "RPL-019": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "規程どおりで手順あり"
+  },
+  "RPL-076": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "不具合は14日以内。30日は誤り"
+  },
+  "RPL-014": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "返品特約どおり、手順もある"
+  },
+  "RPL-004": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目で14日以内、手順あり"
+  },
+  "RPL-064": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "7日目で14日以内、手順あり"
+  },
+  "RPL-037": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "再設定の手順を案内している"
+  },
+  "RPL-041": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "修理の申込み方法が書かれていない"
+  },
+  "RPL-028": {
+   "verdict": "fail",
+   "code": "b",
+   "note": "次に何をするかの案内が無い"
+  },
+  "RPL-040": {
+   "verdict": "fail",
+   "code": "a",
+   "note": "9日目の不具合。30日は誤り"
+  },
+  "RPL-007": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "確認のうえ取消し、依頼事項もある"
+  },
+  "RPL-055": {
+   "verdict": "pass",
+   "code": "none",
+   "note": "確認のうえ取消し、依頼事項もある"
+  }
+ }
+}

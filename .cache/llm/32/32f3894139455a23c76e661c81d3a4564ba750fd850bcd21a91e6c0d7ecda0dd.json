@@ -1,0 +1,1 @@
+{"text": "", "model": "claude-opus-5-5", "in": 1637, "out": 167, "seconds": 1.91, "cost_usd": 0.009888, "stop": "tool_use", "content": [{"type": "tool_use", "id": "toolu_012rj2UE5R94r9xaZvdRrJaF", "name": "create_order", "input": {"code": "K-110", "qty": 20, "supplier": "北浜物流"}}], "t": "2026-10-18T11:40:49"}

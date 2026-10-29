@@ -1,0 +1,1 @@
+{"text": "```json\n{\"label\": \"請求・支払い\", \"rule\": \"-\", \"confidence\": 45}\n```", "model": "claude-opus-5-5", "in": 378, "out": 282, "seconds": 4.4, "cost_usd": 0.007152, "stop": "end_turn", "content": [{"type": "text", "text": "```json\n{\"label\": \"請求・支払い\", \"rule\": \"-\", \"confidence\": 45}\n```"}], "t": "2026-10-18T11:39:44"}

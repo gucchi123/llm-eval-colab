@@ -1,0 +1,45 @@
+{
+ "model": "claude-opus-5-5",
+ "prompt": "naive",
+ "provider": "anthropic",
+ "effort": "high",
+ "result": {
+  "equal": {
+   "pairs": 20,
+   "judgments": 40,
+   "decided": 10,
+   "first_pos_wins": 5,
+   "first_pos_rate": 0.5,
+   "first_pos_ci": [
+    0.23659309051256405,
+    0.763406909487436
+   ],
+   "consistent": 14,
+   "final": {
+    "x": 1,
+    "y": 1,
+    "tie": 18
+   },
+   "per_order_y": 7
+  },
+  "length": {
+   "pairs": 20,
+   "judgments": 40,
+   "decided": 40,
+   "first_pos_wins": 20,
+   "first_pos_rate": 0.5,
+   "first_pos_ci": [
+    0.35199526933465386,
+    0.6480047306653461
+   ],
+   "consistent": 20,
+   "final": {
+    "x": 20,
+    "y": 0,
+    "tie": 0
+   },
+   "per_order_y": 0
+  }
+ },
+ "cost_usd": 0.5244
+}

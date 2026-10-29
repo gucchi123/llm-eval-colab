@@ -1,0 +1,41 @@
+{
+ "judges": {
+  "claude-opus-5-5": {
+   "opus_wins": 6,
+   "sonnet_wins": 6,
+   "ties": 8,
+   "opus_score": 0.5,
+   "opus_win_rate_decided": 0.5,
+   "ci_decided": [
+    0.2537815976337061,
+    0.7462184023662939
+   ],
+   "consistent": 10
+  },
+  "claude-sonnet-5-5": {
+   "opus_wins": 3,
+   "sonnet_wins": 14,
+   "ties": 3,
+   "opus_score": 0.225,
+   "opus_win_rate_decided": 0.17647058823529413,
+   "ci_decided": [
+    0.061911266376209945,
+    0.4102945856883412
+   ],
+   "consistent": 8
+  }
+ },
+ "self_pref": 0.275,
+ "diff_ci": [
+  0.0,
+  0.55
+ ],
+ "avg_len": {
+  "claude-opus-5-5": 511.4,
+  "claude-sonnet-5-5": 441.2
+ },
+ "n": 10,
+ "cost_usd": 0.6979,
+ "provider": "anthropic",
+ "effort": "high"
+}

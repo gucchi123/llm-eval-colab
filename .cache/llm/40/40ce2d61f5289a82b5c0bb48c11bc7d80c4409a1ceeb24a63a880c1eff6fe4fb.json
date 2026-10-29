@@ -1,0 +1,1 @@
+{"text": "", "model": "claude-sonnet-5-5", "in": 1661, "out": 147, "seconds": 1.94, "cost_usd": 0.004792, "stop": "tool_use", "content": [{"type": "tool_use", "id": "toolu_01Sjk1wLkHUcPmPzHoS8eP31", "name": "create_order", "input": {"code": "K-101", "qty": 48, "supplier": "タカセ食品卸"}}], "t": "2026-10-18T11:07:14"}

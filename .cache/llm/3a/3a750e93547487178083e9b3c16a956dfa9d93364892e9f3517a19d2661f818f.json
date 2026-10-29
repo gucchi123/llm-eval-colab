@@ -1,0 +1,1 @@
+{"text": "{\"claims\": [{\"claim\": \"出産祝金は1万円である\", \"supported\": true}]}", "model": "claude-sonnet-5-5", "in": 428, "out": 33, "seconds": 2.45, "cost_usd": 0.001186, "stop": "end_turn", "content": [{"type": "text", "text": "{\"claims\": [{\"claim\": \"出産祝金は1万円である\", \"supported\": true}]}"}], "t": "2026-10-18T11:38:34"}
