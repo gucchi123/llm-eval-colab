@@ -18,6 +18,7 @@
 ### 手元の Jupyter / コマンド
 
 - Python 3.11 以上（Windows 11 ARM64 / Python 3.13.14 で確認）
+- Windows では、深いフォルダに置くと `pip install` が「パスが長すぎる」で失敗することがあります（anthropic のファイル名が長いため）。`C:\work\llm-eval-kit` のような浅い場所に置いてください
 - `python -m venv .venv` → `.venv/Scripts/python -m pip install -r requirements.txt`（anthropic と pytest だけ。統計は標準ライブラリで自作）。macOS / Linux は `.venv/bin/python`
 - ノートブックは `notebooks/` から開きます（`python -m pip install jupyter` → `jupyter notebook notebooks/`）
 - 各ラボはそのフォルダに入ってから実行します（`cd lab03_classify_extract && python run_classify.py`）
